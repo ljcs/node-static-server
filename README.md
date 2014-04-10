@@ -2,7 +2,7 @@
 
 
 ## prerequisites
-1. Download and install node.js (see nodejs.org)
+1. Download and install [Node.js](http://nodejs.org/ "Download Node.js")
 2. Decide on a folder to have your static server in
 2. Make sure that there is a file in that folder called _"package.json"_ if it is not there create it and include the following lines in the body:
 
