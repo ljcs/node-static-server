@@ -25,7 +25,7 @@
 		app.listen(process.env.PORT || 3000); 
 
 
-## Steps
+## Steps first install
 1. Open terminal
 2. Go to the right directory (cd "name directory") 
 3. Create a folder called "public" by typing _"mkdir public"_
@@ -36,8 +36,11 @@
 7. In your browser type: "localhost:3000" // or whatever you used as a number
 
 
-
-
+## Returning to the local server
+1. Open terminal
+2. Go to the right directory (cd "name directory") 
+3. Execute the _server.js_ file by typing _"node server.js"_
+4. In your browser type: "localhost:3000" // or whatever you used as a number
 
 
 ### Glossary
