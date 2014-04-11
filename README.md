@@ -14,7 +14,8 @@
   		}
 		}
 
-3. In that same folder have a file called _server.js_ that includes the following:
+3. In that same folder have a file called _server.js_ 
+		// file should include the following:
 		var express = require('express');
 		var app = express();
 
@@ -33,7 +34,7 @@
 	a. if this does not work due to admin issues, use _"sudo npm install -g express"_ this will ask for credentials (password)
 5. Install dash _"npm install dash"_
 6. Execute the _server.js_ file by typing _"node server.js"_
-7. In your browser type: "localhost:3000" // or whatever you used as a number
+7. In your browser type: "localhost:3000" or whatever you used as a number for the port
 
 
 ## Returning to the local server
