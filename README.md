@@ -15,6 +15,7 @@
 		}
 
 3. In that same folder have a file called _server.js_ 
+		
 		// file should include the following:
 		var express = require('express');
 		var app = express();
